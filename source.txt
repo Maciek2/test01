@@ -1,3 +1,4 @@
 pierwszy wpis
 drugi wpis w innym systemie
 zmiany (do re-basing'u)
+kolejne zmiany do rebasingu
