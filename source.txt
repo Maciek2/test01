@@ -1,2 +1,3 @@
 pierwszy wpis
 drugi wpis w innym systemie
+wpis bezposrednio w github-ie
